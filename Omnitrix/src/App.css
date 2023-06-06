@@ -27,5 +27,18 @@ img {
 }
 
 .Active {
+  display: block;
+}
+
+.Inactive {
   display: none;
+}
+
+.bttns {
+  display: flex;
+  justify-content: center;
+}
+
+.bttns input {
+  width: 30%;
 }

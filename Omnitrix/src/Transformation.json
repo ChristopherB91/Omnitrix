@@ -1,0 +1,392 @@
+[
+  {
+    "Preset": 1,
+    "Aliens": [
+      {
+        "Id": 1,
+        "Name": "Vulpamancer",
+        "Nickname": "Wildmutt",
+        "Ultimate": true
+      },
+      {
+        "Id": 2,
+        "Name": "Tetraman",
+        "Nickname": "Four-Arms",
+        "Ultimate": false
+      },
+      {
+        "Id": 3,
+        "Name": "Galvin",
+        "Nickname": "Greymatter",
+        "Ultimate": true
+      },
+      {
+        "Id": 4,
+        "Name": "Kincelreon",
+        "Nickname": "XLR8",
+        "Ultimate": false
+      },
+      {
+        "Id": 5,
+        "Name": "Galvinic Mechamorph",
+        "Nickname": "Upgrade",
+        "Ultimate": false
+      },
+      {
+        "Id": 6,
+        "Name": "Petrosapien",
+        "Nickname": "Diamondhead",
+        "Ultimate": false
+      },
+      {
+        "Id": 7,
+        "Name": "Piscciss Volann",
+        "Nickname": "Ripjaws",
+        "Ultimate": false
+      },
+      {
+        "Id": 8,
+        "Name": "Lepidopterran",
+        "Nickname": "Stinkfly",
+        "Ultimate": false
+      },
+      {
+        "Id": 9,
+        "Name": "Ectonurite",
+        "Nickname": "Ghostfreak",
+        "Ultimate": false
+      },
+      {
+        "Id": 10,
+        "Name": "Pyronite",
+        "Nickname": "Heatblast",
+        "Ultimate": false
+      }
+    ]
+  },
+  {
+    "Preset": 2,
+    "Aliens": [
+      {
+        "Id": 1,
+        "Name": "Arburian Pelarota",
+        "Nickname": "Cannonbolt",
+        "Ultimate": true
+      },
+      {
+        "Id": 2,
+        "Name": "Florauna",
+        "Nickname": "Wildvine",
+        "Ultimate": false
+      },
+      {
+        "Id": 3,
+        "Name": "Loboan",
+        "Nickname": "Blitzwolfer / Benwolf",
+        "Ultimate": false
+      },
+      {
+        "Id": 4,
+        "Name": "Thep Khufan",
+        "Nickname": "Snare-Oh / Benmummy",
+        "Ultimate": false
+      },
+      {
+        "Id": 5,
+        "Name": "Transylian",
+        "Nickname": "Frankenstriker / Benvicktor",
+        "Ultimate": false
+      },
+      {
+        "Id": 6,
+        "Name": "Gourmand",
+        "Nickname": "Upchuck",
+        "Ultimate": false
+      },
+      {
+        "Id": 7,
+        "Name": "Splixson",
+        "Nickname": "Ditto",
+        "Ultimate": false
+      },
+      {
+        "Id": 8,
+        "Name": "Opticoid",
+        "Nickname": "Eye Guy",
+        "Ultimate": false
+      },
+      {
+        "Id": 9,
+        "Name": "To'kustar",
+        "Nickname": "Way Big",
+        "Ultimate": true
+      },
+      {
+        "Id": 10,
+        "Name": "Conductoid",
+        "Nickname": "Feedback",
+        "Ultimate": false
+      }
+    ]
+  },
+  {
+    "Preset": 3,
+    "Aliens": [
+      {
+        "Id": 1,
+        "Name": "Methanosian",
+        "Nickname": "Swampfire",
+        "Ultimate": true
+      },
+      {
+        "Id": 2,
+        "Name": "Sonorosian",
+        "Nickname": "Echo Echo",
+        "Ultimate": true
+      },
+      {
+        "Id": 3,
+        "Name": "Vaxasaurian",
+        "Nickname": "Humungousaur",
+        "Ultimate": true
+      },
+      {
+        "Id": 4,
+        "Name": "Aerophibian",
+        "Nickname": "Jetray",
+        "Ultimate": false
+      },
+      {
+        "Id": 5,
+        "Name": "Necrofriggian",
+        "Nickname": "Big Chill",
+        "Ultimate": true
+      },
+      {
+        "Id": 6,
+        "Name": "Crystalsapien",
+        "Nickname": "Chromastone",
+        "Ultimate": false
+      },
+      {
+        "Id": 7,
+        "Name": "Cerebrocrustacean",
+        "Nickname": "Brainstorm",
+        "Ultimate": false
+      },
+      {
+        "Id": 8,
+        "Name": "Arachnichimp",
+        "Nickname": "Spidermonkey",
+        "Ultimate": true
+      },
+      {
+        "Id": 9,
+        "Name": "Polymorph",
+        "Nickname": "Goop",
+        "Ultimate": false
+      },
+      {
+        "Id": 10,
+        "Name": "Celestialsapien",
+        "Nickname": "Alien X",
+        "Ultimate": false
+      }
+    ]
+  },
+  {
+    "Preset": 4,
+    "Aliens": [
+      {
+        "Id": 1,
+        "Name": "Orishan",
+        "Nickname": "Water Hazard",
+        "Ultimate": false
+      },
+      {
+        "Id": 2,
+        "Name": "Amperi",
+        "Nickname": "Ampfibian",
+        "Ultimate": false
+      },
+      {
+        "Id": 3,
+        "Name": "Talpaedan",
+        "Nickname": "Armodrillo",
+        "Ultimate": false
+      },
+      {
+        "Id": 4,
+        "Name": "Geochelone Aerio",
+        "Nickname": "Terraspin",
+        "Ultimate": false
+      },
+      {
+        "Id": 5,
+        "Name": "Prypiatosian-B",
+        "Nickname": "NRG",
+        "Ultimate": false
+      },
+      {
+        "Id": 6,
+        "Name": "Citrakayah",
+        "Nickname": "Fasttrack",
+        "Ultimate": false
+      },
+      {
+        "Id": 7,
+        "Name": "Merlinisapien",
+        "Nickname": "Chamalien",
+        "Ultimate": false
+      },
+      {
+        "Id": 8,
+        "Name": "Chronosapien",
+        "Nickname": "Clockwork",
+        "Ultimate": false
+      },
+      {
+        "Id": 9,
+        "Name": "Planchaküle",
+        "Nickname": "Juryrigg",
+        "Ultimate": false
+      },
+      {
+        "Id": 10,
+        "Name": "Oryctini",
+        "Nickname": "Eatle",
+        "Ultimate": false
+      }
+    ]
+  },
+  {
+    "Preset": 5,
+    "Aliens": [
+      {
+        "Id": 1,
+        "Name": "Segmentasapien",
+        "Nickname": "Bloxx",
+        "Ultimate": false
+      },
+      {
+        "Id": 2,
+        "Name": "Galilean",
+        "Nickname": "Gravattack",
+        "Ultimate": true
+      },
+      {
+        "Id": 3,
+        "Name": "Orthopterran",
+        "Nickname": "Crashhopper",
+        "Ultimate": false
+      },
+      {
+        "Id": 4,
+        "Name": "Unknown",
+        "Nickname": "Ballweevil",
+        "Ultimate": false
+      },
+      {
+        "Id": 5,
+        "Name": "Unknown",
+        "Nickname": "Kickin Hawk",
+        "Ultimate": false
+      },
+      {
+        "Id": 6,
+        "Name": "Unknown",
+        "Nickname": "Toepick",
+        "Ultimate": false
+      },
+      {
+        "Id": 7,
+        "Name": "Unknown",
+        "Nickname": "Astrodactyl",
+        "Ultimate": false
+      },
+      {
+        "Id": 8,
+        "Name": "Incursean",
+        "Nickname": "Bullfrag",
+        "Ultimate": false
+      },
+      {
+        "Id": 9,
+        "Name": "Unknown",
+        "Nickname": "Atomix",
+        "Ultimate": false
+      },
+      {
+        "Id": 10,
+        "Name": "Unknown",
+        "Nickname": "Gutrot",
+        "Ultimate": false
+      }
+    ]
+  },
+  {
+    "Preset": 6,
+    "Aliens": [
+      {
+        "Id": 1,
+        "Name": "Sphoeroid",
+        "Nickname": "Spitter",
+        "Ultimate": false
+      },
+      {
+        "Id": 2,
+        "Name": "Buzzschock",
+        "Nickname": "Nosedeenian",
+        "Ultimate": false
+      },
+      {
+        "Id": 3,
+        "Name": "Polar Manzardill",
+        "Nickname": "Arctiguana",
+        "Ultimate": true
+      },
+      {
+        "Id": 4,
+        "Name": "Nanochip Human hybrid",
+        "Nickname": "Nanomech",
+        "Ultimate": false
+      },
+      {
+        "Id": 5,
+        "Name": "Biot-savartian",
+        "Nickname": "Lodestar",
+        "Ultimate": false
+      },
+      {
+        "Id": 6,
+        "Name": "Appoplexian",
+        "Nickname": "Rath",
+        "Ultimate": true
+      },
+      {
+        "Id": 7,
+        "Name": "Gimlinopithecus",
+        "Nickname": "Shocksquatch",
+        "Ultimate": false
+      },
+      {
+        "Id": 8,
+        "Name": "Nemuina",
+        "Nickname": "Pesky Dust",
+        "Ultimate": false
+      },
+      {
+        "Id": 9,
+        "Name": "Unknown",
+        "Nickname": "Mole-Stache",
+        "Ultimate": false
+      },
+      {
+        "Id": 10,
+        "Name": "Vladat",
+        "Nickname": "Whampire",
+        "Ultimate": false
+      }
+    ]
+  }
+]
