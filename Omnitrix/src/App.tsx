@@ -1,15 +1,19 @@
 import { useState } from "react";
+import left from "./assets/LeftArrow.svg";
+import right from "./assets/RightArrow.svg";
 import Watch from "./assets/Omnitrix.svg";
 import WatchActive from "./assets/OmnitrixActive.svg";
 import Button from "./assets/Button.svg";
 import Timeout from "./assets/OmnitrixTimeout.svg";
 import Ultimatrix from "./assets/OmnitrixUltToggle.svg";
-// import Transformation from "./Transformation.json";
+import Transformation from "./Transformation.json";
 import "./App.css";
 
 function App() {
   const [style, setStyle] = useState("Active");
   const [style2, setStyle2] = useState("Inactive");
+  const [presetNum, setPresetNum] = useState(1);
+  const [alienNum, setAlien] = useState(1);
 
   const changeStyle = () => {
     setStyle("Inactive");
@@ -19,19 +23,89 @@ function App() {
   const reverseStyle = () => {
     setStyle("Active");
     setStyle2("Inactive");
+    setAlien(1);
+    setPresetNum(1);
+  };
+
+  const incPreset = () => {
+    if (presetNum < 6) {
+      setPresetNum(presetNum + 1);
+    } else {
+      setPresetNum(1);
+    }
+  };
+
+  const decPreset = () => {
+    if (presetNum > 1) {
+      setPresetNum(presetNum - 1);
+    } else {
+      setPresetNum(6);
+    }
+  };
+
+  const incAlien = () => {
+    if (alienNum < 10) {
+      setAlien(alienNum + 1);
+    } else {
+      setAlien(1);
+    }
+  };
+
+  const decAlien = () => {
+    if (alienNum > 1) {
+      setAlien(alienNum - 1);
+    } else {
+      setAlien(10);
+    }
   };
 
   return (
     <>
       <h1>Omnitrix app</h1>
       <div id="omnitrixWatch">
-        <img src={Watch} alt="Omnitrix Watch Portion" className={style} />
-        <input
-          type="image"
-          src={WatchActive}
-          alt="Omnitrix Watch Active"
-          className={style2}
-        />
+        <p className={style}>You have selected preset {presetNum}</p>
+        <p className={style2}>
+          You have selected alien number {alienNum} a(n){" "}
+          {Transformation[presetNum - 1].Aliens[alienNum - 1].Name} also know as{" "}
+          {Transformation[presetNum - 1].Aliens[alienNum - 1].Nickname}
+        </p>
+        <div className="Watch">
+          <input
+            type="image"
+            alt="Decrement button"
+            src={left}
+            onClick={decPreset}
+            className={style}
+          />
+          <img src={Watch} alt="Omnitrix Watch Portion" className={style} />
+          <input
+            type="image"
+            alt="Increment button"
+            onClick={incPreset}
+            src={right}
+            className={style}
+          />
+          <input
+            type="image"
+            alt="Decrement button"
+            src={left}
+            onClick={decAlien}
+            className={style2}
+          />
+          <input
+            type="image"
+            src={WatchActive}
+            alt="Omnitrix Watch Active"
+            className={style2}
+          />
+          <input
+            type="image"
+            alt="Increment button"
+            src={right}
+            onClick={incAlien}
+            className={style2}
+          />
+        </div>
         <br />
         <input
           type="image"
