@@ -6,61 +6,81 @@
         "Id": 1,
         "Name": "Vulpamancer",
         "Nickname": "Wildmutt",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset1/silhouettes/Wildmutt.png",
+        "Photo": "/Preset1/Wildmutt.png"
       },
       {
         "Id": 2,
         "Name": "Tetraman",
         "Nickname": "Four-Arms",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/Four-Arms.png",
+        "Photo": "/Preset1/Four-Arms.png"
       },
       {
         "Id": 3,
         "Name": "Galvin",
         "Nickname": "Greymatter",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset1/silhouettes/GreyMatter.png",
+        "Photo": "/Preset1/GreyMatter.png"
       },
       {
         "Id": 4,
         "Name": "Kincelreon",
         "Nickname": "XLR8",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/XLR8.png",
+        "Photo": "/Preset1/XLR8.png"
       },
       {
         "Id": 5,
         "Name": "Galvinic Mechamorph",
         "Nickname": "Upgrade",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/Upgrade.png",
+        "Photo": "/Preset1/Upgrade.png"
       },
       {
         "Id": 6,
         "Name": "Petrosapien",
         "Nickname": "Diamondhead",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/Diamondhead.png",
+        "Photo": "/Preset1/Diamondhead.png"
       },
       {
         "Id": 7,
         "Name": "Piscciss Volann",
         "Nickname": "Ripjaws",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/Ripjaws.png",
+        "Photo": "/Preset1/Ripjaws.png"
       },
       {
         "Id": 8,
         "Name": "Lepidopterran",
         "Nickname": "Stinkfly",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/Stinkfly.png",
+        "Photo": "/Preset1/Stinkfly.png"
       },
       {
         "Id": 9,
         "Name": "Ectonurite",
         "Nickname": "Ghostfreak",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/Ghostfreak.png",
+        "Photo": "/Preset1/Ghostfreak.png"
       },
       {
         "Id": 10,
         "Name": "Pyronite",
         "Nickname": "Heatblast",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset1/silhouettes/Heatblast.png",
+        "Photo": "/Preset1/Heatblast.png"
       }
     ]
   },
@@ -71,61 +91,81 @@
         "Id": 1,
         "Name": "Arburian Pelarota",
         "Nickname": "Cannonbolt",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset2/silhouettes/Cannonbolt.png",
+        "Photo": "/Preset2/Cannonbolt.png"
       },
       {
         "Id": 2,
         "Name": "Florauna",
         "Nickname": "Wildvine",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/Wildvine.png",
+        "Photo": "/Preset2/Wildvine.png"
       },
       {
         "Id": 3,
         "Name": "Loboan",
         "Nickname": "Blitzwolfer / Benwolf",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/Blitzwolfer.png",
+        "Photo": "/Preset2/Blitzwolfer.png"
       },
       {
         "Id": 4,
         "Name": "Thep Khufan",
         "Nickname": "Snare-Oh / Benmummy",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/Snare-OH.png",
+        "Photo": "/Preset2/Snare-OH.png"
       },
       {
         "Id": 5,
         "Name": "Transylian",
-        "Nickname": "Frankenstriker / Benvicktor",
-        "Ultimate": false
+        "Nickname": "Frankenstrike / Benvicktor",
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/Frankenstrike.png",
+        "Photo": "/Preset2/Frankenstrike.png"
       },
       {
         "Id": 6,
         "Name": "Gourmand",
         "Nickname": "Upchuck",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/Upchuck.png",
+        "Photo": "/Preset2/Upchuck.png"
       },
       {
         "Id": 7,
         "Name": "Splixson",
         "Nickname": "Ditto",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/Ditto.png",
+        "Photo": "/Preset2/Ditto.png"
       },
       {
         "Id": 8,
         "Name": "Opticoid",
         "Nickname": "Eye Guy",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/Eyeguy.png",
+        "Photo": "/Preset2/Eyeguy.png"
       },
       {
         "Id": 9,
         "Name": "To'kustar",
         "Nickname": "Way Big",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset2/silhouettes/Way-big.png",
+        "Photo": "/Preset2/Way-big.png"
       },
       {
         "Id": 10,
         "Name": "Conductoid",
         "Nickname": "Feedback",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset2/silhouettes/feedback.png",
+        "Photo": "/Preset2/feedback.png"
       }
     ]
   },
@@ -136,61 +176,81 @@
         "Id": 1,
         "Name": "Methanosian",
         "Nickname": "Swampfire",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset3/silhouettes/Swampfire.png",
+        "Photo": "/Preset3/Swampfire.png"
       },
       {
         "Id": 2,
         "Name": "Sonorosian",
         "Nickname": "Echo Echo",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset3/silhouettes/EchoEcho.png",
+        "Photo": "/Preset3/EchoEcho.png"
       },
       {
         "Id": 3,
         "Name": "Vaxasaurian",
-        "Nickname": "Humungousaur",
-        "Ultimate": true
+        "Nickname": "Humungasaur",
+        "Ultimate": true,
+        "Silohoutte": "/Preset3/silhouettes/Humungasaur.png",
+        "Photo": "/Preset3/Humungasaur.png"
       },
       {
         "Id": 4,
         "Name": "Aerophibian",
         "Nickname": "Jetray",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset3/silhouettes/Jetray.png",
+        "Photo": "/Preset3/Jetray.png"
       },
       {
         "Id": 5,
         "Name": "Necrofriggian",
         "Nickname": "Big Chill",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset3/silhouettes/Bigchill.png",
+        "Photo": "/Preset3/Bigchill.png"
       },
       {
         "Id": 6,
         "Name": "Crystalsapien",
         "Nickname": "Chromastone",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset3/silhouettes/Chromastone.png",
+        "Photo": "/Preset3/Chromastone.png"
       },
       {
         "Id": 7,
         "Name": "Cerebrocrustacean",
         "Nickname": "Brainstorm",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset3/silhouettes/Brainstorm.png",
+        "Photo": "/Preset3/Brainstorm.png"
       },
       {
         "Id": 8,
         "Name": "Arachnichimp",
         "Nickname": "Spidermonkey",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset3/silhouettes/Spidermonkey.png",
+        "Photo": "/Preset3/Spidermonkey.png"
       },
       {
         "Id": 9,
         "Name": "Polymorph",
         "Nickname": "Goop",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset3/silhouettes/Goop.png",
+        "Photo": "/Preset3/Goop.png"
       },
       {
         "Id": 10,
         "Name": "Celestialsapien",
         "Nickname": "Alien X",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset3/silhouettes/Alien-X.png",
+        "Photo": "/Preset3/Alien-X.png"
       }
     ]
   },
@@ -201,61 +261,81 @@
         "Id": 1,
         "Name": "Orishan",
         "Nickname": "Water Hazard",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/WaterHazard.png",
+        "Photo": "/Preset4/WaterHazard.png"
       },
       {
         "Id": 2,
         "Name": "Amperi",
         "Nickname": "Ampfibian",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/Ampfibian.png",
+        "Photo": "/Preset4/Ampfibian.png"
       },
       {
         "Id": 3,
         "Name": "Talpaedan",
         "Nickname": "Armodrillo",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/Armodrillo.png",
+        "Photo": "/Preset4/Armodrillo.png"
       },
       {
         "Id": 4,
         "Name": "Geochelone Aerio",
         "Nickname": "Terraspin",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/TerraSpin.png",
+        "Photo": "/Preset4/TerraSpin.png"
       },
       {
         "Id": 5,
         "Name": "Prypiatosian-B",
         "Nickname": "NRG",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/NRG.png",
+        "Photo": "/Preset4/NRG.png"
       },
       {
         "Id": 6,
         "Name": "Citrakayah",
         "Nickname": "Fasttrack",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/Fasttrack.png",
+        "Photo": "/Preset4/Fasttrack.png"
       },
       {
         "Id": 7,
         "Name": "Merlinisapien",
         "Nickname": "Chamalien",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/Chamalien.png",
+        "Photo": "/Preset4/Chamalien.png"
       },
       {
         "Id": 8,
         "Name": "Chronosapien",
         "Nickname": "Clockwork",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/Clockwork.png",
+        "Photo": "/Preset4/Clockwork.png"
       },
       {
         "Id": 9,
         "Name": "Planchaküle",
         "Nickname": "Juryrigg",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/Juryrigg.png",
+        "Photo": "/Preset4/Juryrigg.png"
       },
       {
         "Id": 10,
         "Name": "Oryctini",
         "Nickname": "Eatle",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset4/silhouettes/Eatle.png",
+        "Photo": "/Preset4/Eatle.png"
       }
     ]
   },
@@ -266,61 +346,81 @@
         "Id": 1,
         "Name": "Segmentasapien",
         "Nickname": "Bloxx",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Bloxx.png",
+        "Photo": "/Preset5/Bloxx.png"
       },
       {
         "Id": 2,
         "Name": "Galilean",
         "Nickname": "Gravattack",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset5/silhouettes/Gravattack.png",
+        "Photo": "/Preset5/Gravattack.png"
       },
       {
         "Id": 3,
         "Name": "Orthopterran",
         "Nickname": "Crashhopper",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Crashhopper.png",
+        "Photo": "/Preset5/Crashhopper.png"
       },
       {
         "Id": 4,
         "Name": "Unknown",
         "Nickname": "Ballweevil",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Ballweevil.png",
+        "Photo": "/Preset5/Ballweevil.png"
       },
       {
         "Id": 5,
         "Name": "Unknown",
         "Nickname": "Kickin Hawk",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Kickin-Hawk.png",
+        "Photo": "/Preset5/Kickin-Hawk.png"
       },
       {
         "Id": 6,
         "Name": "Unknown",
         "Nickname": "Toepick",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Toepick.png",
+        "Photo": "/Preset5/Toepick.png"
       },
       {
         "Id": 7,
         "Name": "Unknown",
         "Nickname": "Astrodactyl",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Astrodactyl.png",
+        "Photo": "/Preset5/Astrodactyl.png"
       },
       {
         "Id": 8,
         "Name": "Incursean",
         "Nickname": "Bullfrag",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Bullfrag.png",
+        "Photo": "/Preset5/Bullfrag.png"
       },
       {
         "Id": 9,
         "Name": "Unknown",
         "Nickname": "Atomix",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Atomix.png",
+        "Photo": "/Preset5/Atomix.png"
       },
       {
         "Id": 10,
         "Name": "Unknown",
         "Nickname": "Gutrot",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset5/silhouettes/Gutrot.png",
+        "Photo": "/Preset5/Gutrot.png"
       }
     ]
   },
@@ -331,61 +431,81 @@
         "Id": 1,
         "Name": "Sphoeroid",
         "Nickname": "Spitter",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/Spitter.png",
+        "Photo": "/Preset6/Spitter.png"
       },
       {
         "Id": 2,
         "Name": "Nosedeenian",
-        "Nickname": "Buzzschock",
-        "Ultimate": false
+        "Nickname": "Buzzshock",
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/Buzzshock.png",
+        "Photo": "/Preset6/Buzzshock.png"
       },
       {
         "Id": 3,
         "Name": "Polar Manzardill",
         "Nickname": "Arctiguana",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset6/silhouettes/Arctiguana.png",
+        "Photo": "/Preset6/Arctiguana.png"
       },
       {
         "Id": 4,
         "Name": "Nanochip Human hybrid",
         "Nickname": "Nanomech",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/Nanomech.png",
+        "Photo": "/Preset6/Nanomech.png"
       },
       {
         "Id": 5,
         "Name": "Biot-savartian",
         "Nickname": "Lodestar",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/Lodestar.png",
+        "Photo": "/Preset6/Lodestar.png"
       },
       {
         "Id": 6,
         "Name": "Appoplexian",
         "Nickname": "Rath",
-        "Ultimate": true
+        "Ultimate": true,
+        "Silohoutte": "/Preset6/silhouettes/Rath.png",
+        "Photo": "/Preset6/Rath.png"
       },
       {
         "Id": 7,
         "Name": "Gimlinopithecus",
         "Nickname": "Shocksquatch",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/Shocksquatch.png",
+        "Photo": "/Preset6/Shocksquatch.png"
       },
       {
         "Id": 8,
         "Name": "Nemuina",
         "Nickname": "Pesky Dust",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/Pesky-Dust.png",
+        "Photo": "/Preset6/Pesky-Dust.png"
       },
       {
         "Id": 9,
         "Name": "Unknown",
         "Nickname": "Mole-Stache",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/MoleStache.png",
+        "Photo": "/Preset6/MoleStache.png"
       },
       {
         "Id": 10,
         "Name": "Vladat",
         "Nickname": "Whampire",
-        "Ultimate": false
+        "Ultimate": false,
+        "Silohoutte": "/Preset6/silhouettes/Whampire.png",
+        "Photo": "/Preset6/Whampire.png"
       }
     ]
   }

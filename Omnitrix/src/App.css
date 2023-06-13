@@ -52,3 +52,11 @@ p {
   font-size: 1.5rem;
   line-height: 1;
 }
+
+#Silohoutte {
+  position: absolute;
+  height: 15%;
+  max-width: 15%;
+  left: 43%;
+  bottom: 45%;
+}

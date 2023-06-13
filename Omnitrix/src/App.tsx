@@ -12,6 +12,8 @@ import "./App.css";
 function App() {
   const [style, setStyle] = useState("Active");
   const [style2, setStyle2] = useState("Inactive");
+  const [style3, setStyle3] = useState("Inactive");
+  const [style4, setStyle4] = useState("Inactive");
   const [presetNum, setPresetNum] = useState(1);
   const [alienNum, setAlien] = useState(1);
 
@@ -20,9 +22,19 @@ function App() {
     setStyle2("Active");
   };
 
+  const changeStyle2 = () => {
+    if (Transformation[presetNum - 1].Aliens[alienNum - 1].Ultimate == true) {
+      setStyle4("Active");
+    }
+    setStyle2("Inactive");
+    setStyle3("Active");
+  };
+
   const reverseStyle = () => {
     setStyle("Active");
     setStyle2("Inactive");
+    setStyle3("Inactive");
+    setStyle4("Inactive");
     setAlien(1);
     setPresetNum(1);
   };
@@ -65,7 +77,7 @@ function App() {
       <div id="omnitrixWatch">
         <p className={style}>You have selected preset {presetNum}</p>
         <p className={style2}>
-          You have selected alien number {alienNum} a(n){" "}
+          Alien number {alienNum} a(n){" "}
           {Transformation[presetNum - 1].Aliens[alienNum - 1].Name} also know as{" "}
           {Transformation[presetNum - 1].Aliens[alienNum - 1].Nickname}
         </p>
@@ -97,6 +109,19 @@ function App() {
             src={WatchActive}
             alt="Omnitrix Watch Active"
             className={style2}
+            onClick={changeStyle2}
+          />
+          <img
+            src={Transformation[presetNum - 1].Aliens[alienNum - 1].Silohoutte}
+            alt="Alien Silohoutte"
+            id="Silohoutte"
+            className={style2}
+          />
+          <img
+            src={Transformation[presetNum - 1].Aliens[alienNum - 1].Photo}
+            alt="Alien Silohoutte"
+            id="Silohoutte"
+            className={style3}
           />
           <input
             type="image"
@@ -126,9 +151,16 @@ function App() {
           />
           <input
             type="image"
+            src={Timeout}
+            alt="Timeout / Reset button"
+            className={style3}
+            onClick={reverseStyle}
+          />
+          <input
+            type="image"
             src={Ultimatrix}
             alt="Ultimate Toggle"
-            className={style2}
+            className={style4}
           />
         </div>
       </div>
