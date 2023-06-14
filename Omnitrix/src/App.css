@@ -56,7 +56,23 @@ p {
 #Silohoutte {
   position: absolute;
   height: 15%;
-  max-width: 15%;
+  width: 50px;
   left: 43%;
   bottom: 45%;
+}
+
+#Pic {
+  height: auto;
+  max-width: 50%;
+}
+
+#Ult {
+  width: 15%;
+}
+
+@media screen and (min-width: 450px) {
+  #Silohoutte {
+    bottom: 47%;
+    left: 47%;
+  }
 }

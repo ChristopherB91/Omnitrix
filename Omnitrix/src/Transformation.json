@@ -8,7 +8,8 @@
         "Nickname": "Wildmutt",
         "Ultimate": true,
         "Silohoutte": "/Preset1/silhouettes/Wildmutt.png",
-        "Photo": "/Preset1/Wildmutt.png"
+        "Photo": "/Preset1/Wildmutt.png",
+        "Ult": "/Preset1/Ultimate/UltimateWildmutt.png"
       },
       {
         "Id": 2,
@@ -24,7 +25,8 @@
         "Nickname": "Greymatter",
         "Ultimate": true,
         "Silohoutte": "/Preset1/silhouettes/GreyMatter.png",
-        "Photo": "/Preset1/GreyMatter.png"
+        "Photo": "/Preset1/GreyMatter.png",
+        "Ult": "/Preset1/Ultimate/UltimateGreyMatter.png"
       },
       {
         "Id": 4,
@@ -93,7 +95,8 @@
         "Nickname": "Cannonbolt",
         "Ultimate": true,
         "Silohoutte": "/Preset2/silhouettes/Cannonbolt.png",
-        "Photo": "/Preset2/Cannonbolt.png"
+        "Photo": "/Preset2/cannonbolt.png",
+        "Ult": "/Preset2/Ultimate/UltimateCannonbolt.png"
       },
       {
         "Id": 2,
@@ -157,7 +160,8 @@
         "Nickname": "Way Big",
         "Ultimate": true,
         "Silohoutte": "/Preset2/silhouettes/Way-big.png",
-        "Photo": "/Preset2/Way-big.png"
+        "Photo": "/Preset2/Way-big.png",
+        "Ult": "/Preset2/Ultimate/Ultimate-Way-big.png"
       },
       {
         "Id": 10,
@@ -178,7 +182,8 @@
         "Nickname": "Swampfire",
         "Ultimate": true,
         "Silohoutte": "/Preset3/silhouettes/Swampfire.png",
-        "Photo": "/Preset3/Swampfire.png"
+        "Photo": "/Preset3/Swampfire.png",
+        "Ult": "/Preset3/Ultimate/UltimateSwampfire.png"
       },
       {
         "Id": 2,
@@ -186,7 +191,8 @@
         "Nickname": "Echo Echo",
         "Ultimate": true,
         "Silohoutte": "/Preset3/silhouettes/EchoEcho.png",
-        "Photo": "/Preset3/EchoEcho.png"
+        "Photo": "/Preset3/EchoEcho.png",
+        "Ult": "/Preset3/Ultimate/UltimateEchoEcho.png"
       },
       {
         "Id": 3,
@@ -194,7 +200,8 @@
         "Nickname": "Humungasaur",
         "Ultimate": true,
         "Silohoutte": "/Preset3/silhouettes/Humungasaur.png",
-        "Photo": "/Preset3/Humungasaur.png"
+        "Photo": "/Preset3/Humungasaur.png",
+        "Ult": "/Preset3/Ultimate/UltimateHumangasour.png"
       },
       {
         "Id": 4,
@@ -210,15 +217,16 @@
         "Nickname": "Big Chill",
         "Ultimate": true,
         "Silohoutte": "/Preset3/silhouettes/Bigchill.png",
-        "Photo": "/Preset3/Bigchill.png"
+        "Photo": "/Preset3/Bigchill.png",
+        "Ult": "/Preset3/Ultimate/UltimateBigChill.png"
       },
       {
         "Id": 6,
         "Name": "Crystalsapien",
         "Nickname": "Chromastone",
         "Ultimate": false,
-        "Silohoutte": "/Preset3/silhouettes/Chromastone.png",
-        "Photo": "/Preset3/Chromastone.png"
+        "Silohoutte": "/Preset3/silhouettes/ChromaStone.png",
+        "Photo": "/Preset3/ChromaStone.png"
       },
       {
         "Id": 7,
@@ -234,7 +242,8 @@
         "Nickname": "Spidermonkey",
         "Ultimate": true,
         "Silohoutte": "/Preset3/silhouettes/Spidermonkey.png",
-        "Photo": "/Preset3/Spidermonkey.png"
+        "Photo": "/Preset3/Spidermonkey.png",
+        "Ult": "/Preset3/Ultimate/UltimateSpidermonkey.png"
       },
       {
         "Id": 9,
@@ -356,7 +365,8 @@
         "Nickname": "Gravattack",
         "Ultimate": true,
         "Silohoutte": "/Preset5/silhouettes/Gravattack.png",
-        "Photo": "/Preset5/Gravattack.png"
+        "Photo": "/Preset5/Gravattack.png",
+        "Ult": "/Preset5/Ultimates/UltimateGravattack.png"
       },
       {
         "Id": 3,
@@ -449,7 +459,8 @@
         "Nickname": "Arctiguana",
         "Ultimate": true,
         "Silohoutte": "/Preset6/silhouettes/Arctiguana.png",
-        "Photo": "/Preset6/Arctiguana.png"
+        "Photo": "/Preset6/Arctiguana.png",
+        "Ult": "/Preset6/Ultimates/UltimateArctiguana.png"
       },
       {
         "Id": 4,
@@ -473,7 +484,8 @@
         "Nickname": "Rath",
         "Ultimate": true,
         "Silohoutte": "/Preset6/silhouettes/Rath.png",
-        "Photo": "/Preset6/Rath.png"
+        "Photo": "/Preset6/Rath.png",
+        "Ult": "/Preset6/Ultimates/UltimateRath.png"
       },
       {
         "Id": 7,
