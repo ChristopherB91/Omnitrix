@@ -64,6 +64,8 @@ p {
 #Pic {
   height: auto;
   max-width: 50%;
+  position: relative;
+  left: 23%;
 }
 
 #Ult {
