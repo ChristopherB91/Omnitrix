@@ -7,82 +7,82 @@
         "Name": "Vulpamancer",
         "Nickname": "Wildmutt",
         "Ultimate": true,
-        "Silohoutte": "/preset1/silhouettes/wildmutt.png",
-        "Photo": "/preset1/wildmutt.png",
-        "Ult": "/preset1/ultimate/ultimatewildmutt.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/wildmutt.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/wildmutt.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset1/ultimate/ultimatewildmutt.png"
       },
       {
         "Id": 2,
         "Name": "Tetraman",
         "Nickname": "Four-Arms",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/four-arms.png",
-        "Photo": "/preset1/four-arms.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/four-arms.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/four-arms.png"
       },
       {
         "Id": 3,
         "Name": "Galvin",
         "Nickname": "Greymatter",
         "Ultimate": true,
-        "Silohoutte": "/preset1/silhouettes/greymatter.png",
-        "Photo": "/preset1/greymatter.png",
-        "Ult": "/preset1/ultimate/ultimategreymatter.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/greymatter.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/greymatter.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset1/ultimate/ultimategreymatter.png"
       },
       {
         "Id": 4,
         "Name": "Kincelreon",
         "Nickname": "XLR8",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/xlr8.png",
-        "Photo": "/preset1/xlr8.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/xlr8.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/xlr8.png"
       },
       {
         "Id": 5,
         "Name": "Galvinic Mechamorph",
         "Nickname": "Upgrade",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/upgrade.png",
-        "Photo": "/preset1/upgrade.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/upgrade.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/upgrade.png"
       },
       {
         "Id": 6,
         "Name": "Petrosapien",
         "Nickname": "Diamondhead",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/diamondhead.png",
-        "Photo": "/preset1/diamondhead.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/diamondhead.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/diamondhead.png"
       },
       {
         "Id": 7,
         "Name": "Piscciss Volann",
         "Nickname": "Ripjaws",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/ripjaws.png",
-        "Photo": "/preset1/ripjaws.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/ripjaws.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/ripjaws.png"
       },
       {
         "Id": 8,
         "Name": "Lepidopterran",
         "Nickname": "Stinkfly",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/stinkfly.png",
-        "Photo": "/preset1/stinkfly.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/stinkfly.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/stinkfly.png"
       },
       {
         "Id": 9,
         "Name": "Ectonurite",
         "Nickname": "Ghostfreak",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/ghostfreak.png",
-        "Photo": "/preset1/ghostfreak.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/ghostfreak.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/ghostfreak.png"
       },
       {
         "Id": 10,
         "Name": "Pyronite",
         "Nickname": "Heatblast",
         "Ultimate": false,
-        "Silohoutte": "/preset1/silhouettes/heatblast.png",
-        "Photo": "/preset1/heatblast.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset1/silhouettes/heatblast.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset1/heatblast.png"
       }
     ]
   },
@@ -94,82 +94,82 @@
         "Name": "Arburian Pelarota",
         "Nickname": "Cannonbolt",
         "Ultimate": true,
-        "Silohoutte": "/preset2/silhouettes/cannonbolt.png",
-        "Photo": "/preset2/cannonbolt.png",
-        "Ult": "/preset2/ultimate/ultimatecannonbolt.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/cannonbolt.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/cannonbolt.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset2/ultimate/ultimatecannonbolt.png"
       },
       {
         "Id": 2,
         "Name": "Florauna",
         "Nickname": "Wildvine",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/Wildvine.png",
-        "Photo": "/preset2/Wildvine.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/wildvine.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/wildvine.png"
       },
       {
         "Id": 3,
         "Name": "Loboan",
         "Nickname": "Blitzwolfer / Benwolf",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/Blitzwolfer.png",
-        "Photo": "/preset2/Blitzwolfer.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/blitzwolfer.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/blitzwolfer.png"
       },
       {
         "Id": 4,
         "Name": "Thep Khufan",
         "Nickname": "Snare-Oh / Benmummy",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/Snare-OH.png",
-        "Photo": "/preset2/Snare-OH.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/snare-oh.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/snare-oh.png"
       },
       {
         "Id": 5,
         "Name": "Transylian",
         "Nickname": "Frankenstrike / Benvicktor",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/Frankenstrike.png",
-        "Photo": "/preset2/Frankenstrike.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/frankenstrike.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/frankenstrike.png"
       },
       {
         "Id": 6,
         "Name": "Gourmand",
         "Nickname": "Upchuck",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/Upchuck.png",
-        "Photo": "/preset2/Upchuck.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/upchuck.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/upchuck.png"
       },
       {
         "Id": 7,
         "Name": "Splixson",
         "Nickname": "Ditto",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/Ditto.png",
-        "Photo": "/preset2/Ditto.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/ditto.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/ditto.png"
       },
       {
         "Id": 8,
         "Name": "Opticoid",
         "Nickname": "Eye Guy",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/Eyeguy.png",
-        "Photo": "/preset2/Eyeguy.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/eyeguy.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/eyeguy.png"
       },
       {
         "Id": 9,
         "Name": "To'kustar",
         "Nickname": "Way Big",
         "Ultimate": true,
-        "Silohoutte": "/preset2/silhouettes/Way-big.png",
-        "Photo": "/preset2/Way-big.png",
-        "Ult": "/preset2/Ultimate/Ultimate-Way-big.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/way-big.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/way-big.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset2/ultimate/ultimate-way-big.png"
       },
       {
         "Id": 10,
         "Name": "Conductoid",
         "Nickname": "Feedback",
         "Ultimate": false,
-        "Silohoutte": "/preset2/silhouettes/feedback.png",
-        "Photo": "/preset2/feedback.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset2/silhouettes/feedback.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset2/feedback.png"
       }
     ]
   },
@@ -181,85 +181,85 @@
         "Name": "Methanosian",
         "Nickname": "Swampfire",
         "Ultimate": true,
-        "Silohoutte": "/preset3/silhouettes/Swampfire.png",
-        "Photo": "/preset3/Swampfire.png",
-        "Ult": "/preset3/Ultimate/UltimateSwampfire.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/swampfire.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/swampfire.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset3/ultimate/ultimateswampfire.png"
       },
       {
         "Id": 2,
         "Name": "Sonorosian",
         "Nickname": "Echo Echo",
         "Ultimate": true,
-        "Silohoutte": "/preset3/silhouettes/EchoEcho.png",
-        "Photo": "/preset3/EchoEcho.png",
-        "Ult": "/preset3/Ultimate/UltimateEchoEcho.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/echoecho.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/echoecho.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset3/ultimate/ultimateechoecho.png"
       },
       {
         "Id": 3,
         "Name": "Vaxasaurian",
         "Nickname": "Humungasaur",
         "Ultimate": true,
-        "Silohoutte": "/preset3/silhouettes/Humungasaur.png",
-        "Photo": "/preset3/Humungasaur.png",
-        "Ult": "/preset3/Ultimate/UltimateHumangasour.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/humungasaur.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/humungasaur.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset3/ultimate/ultimatehumangasour.png"
       },
       {
         "Id": 4,
         "Name": "Aerophibian",
         "Nickname": "Jetray",
         "Ultimate": false,
-        "Silohoutte": "/preset3/silhouettes/Jetray.png",
-        "Photo": "/preset3/Jetray.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/jetray.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/jetray.png"
       },
       {
         "Id": 5,
         "Name": "Necrofriggian",
         "Nickname": "Big Chill",
         "Ultimate": true,
-        "Silohoutte": "/preset3/silhouettes/Bigchill.png",
-        "Photo": "/preset3/Bigchill.png",
-        "Ult": "/preset3/Ultimate/UltimateBigChill.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/bigchill.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/bigchill.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset3/ultimate/ultimatebigchill.png"
       },
       {
         "Id": 6,
         "Name": "Crystalsapien",
         "Nickname": "Chromastone",
         "Ultimate": false,
-        "Silohoutte": "/preset3/silhouettes/ChromaStone.png",
-        "Photo": "/preset3/ChromaStone.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/chromastone.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/chromastone.png"
       },
       {
         "Id": 7,
         "Name": "Cerebrocrustacean",
         "Nickname": "Brainstorm",
         "Ultimate": false,
-        "Silohoutte": "/preset3/silhouettes/Brainstorm.png",
-        "Photo": "/preset3/Brainstorm.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/brainstorm.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/brainstorm.png"
       },
       {
         "Id": 8,
         "Name": "Arachnichimp",
         "Nickname": "Spidermonkey",
         "Ultimate": true,
-        "Silohoutte": "/preset3/silhouettes/Spidermonkey.png",
-        "Photo": "/preset3/Spidermonkey.png",
-        "Ult": "/preset3/Ultimate/UltimateSpidermonkey.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/spidermonkey.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/spidermonkey.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset3/ultimate/ultimatespidermonkey.png"
       },
       {
         "Id": 9,
         "Name": "Polymorph",
         "Nickname": "Goop",
         "Ultimate": false,
-        "Silohoutte": "/preset3/silhouettes/Goop.png",
-        "Photo": "/preset3/Goop.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/goop.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/goop.png"
       },
       {
         "Id": 10,
         "Name": "Celestialsapien",
         "Nickname": "Alien X",
         "Ultimate": false,
-        "Silohoutte": "/preset3/silhouettes/Alien-X.png",
-        "Photo": "/preset3/Alien-X.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset3/silhouettes/alien-x.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset3/alien-x.png"
       }
     ]
   },
@@ -271,80 +271,80 @@
         "Name": "Orishan",
         "Nickname": "Water Hazard",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/WaterHazard.png",
-        "Photo": "/preset4/WaterHazard.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/waterhazard.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/waterhazard.png"
       },
       {
         "Id": 2,
         "Name": "Amperi",
         "Nickname": "Ampfibian",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/Ampfibian.png",
-        "Photo": "/preset4/Ampfibian.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/ampfibian.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/ampfibian.png"
       },
       {
         "Id": 3,
         "Name": "Talpaedan",
         "Nickname": "Armodrillo",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/Armodrillo.png",
-        "Photo": "/preset4/Armodrillo.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/armodrillo.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/armodrillo.png"
       },
       {
         "Id": 4,
         "Name": "Geochelone Aerio",
         "Nickname": "Terraspin",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/TerraSpin.png",
-        "Photo": "/preset4/TerraSpin.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/terraspin.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/terraspin.png"
       },
       {
         "Id": 5,
         "Name": "Prypiatosian-B",
         "Nickname": "NRG",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/NRG.png",
-        "Photo": "/preset4/NRG.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/nrg.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/nrg.png"
       },
       {
         "Id": 6,
         "Name": "Citrakayah",
         "Nickname": "Fasttrack",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/Fasttrack.png",
-        "Photo": "/preset4/Fasttrack.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/fasttrack.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/fasttrack.png"
       },
       {
         "Id": 7,
         "Name": "Merlinisapien",
         "Nickname": "Chamalien",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/Chamalien.png",
-        "Photo": "/preset4/Chamalien.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/chamalien.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/chamalien.png"
       },
       {
         "Id": 8,
         "Name": "Chronosapien",
         "Nickname": "Clockwork",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/Clockwork.png",
-        "Photo": "/preset4/Clockwork.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/clockwork.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/clockwork.png"
       },
       {
         "Id": 9,
         "Name": "Planchaküle",
         "Nickname": "Juryrigg",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/Juryrigg.png",
-        "Photo": "/preset4/Juryrigg.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/juryrigg.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/juryrigg.png"
       },
       {
         "Id": 10,
         "Name": "Oryctini",
         "Nickname": "Eatle",
         "Ultimate": false,
-        "Silohoutte": "/preset4/silhouettes/Eatle.png",
-        "Photo": "/preset4/Eatle.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset4/silhouettes/eatle.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset4/eatle.png"
       }
     ]
   },
@@ -356,81 +356,81 @@
         "Name": "Segmentasapien",
         "Nickname": "Bloxx",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Bloxx.png",
-        "Photo": "/preset5/Bloxx.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/bloxx.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/bloxx.png"
       },
       {
         "Id": 2,
         "Name": "Galilean",
         "Nickname": "Gravattack",
         "Ultimate": true,
-        "Silohoutte": "/preset5/silhouettes/Gravattack.png",
-        "Photo": "/preset5/Gravattack.png",
-        "Ult": "/preset5/Ultimates/UltimateGravattack.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/gravattack.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/gravattack.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset5/ultimates/ultimategravattack.png"
       },
       {
         "Id": 3,
         "Name": "Orthopterran",
         "Nickname": "Crashhopper",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Crashhopper.png",
-        "Photo": "/preset5/Crashhopper.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/crashhopper.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/crashhopper.png"
       },
       {
         "Id": 4,
         "Name": "Unknown",
         "Nickname": "Ballweevil",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Ballweevil.png",
-        "Photo": "/preset5/Ballweevil.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/ballweevil.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/ballweevil.png"
       },
       {
         "Id": 5,
         "Name": "Unknown",
         "Nickname": "Kickin Hawk",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Kickin-Hawk.png",
-        "Photo": "/preset5/Kickin-Hawk.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/kickin-hawk.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/kickin-hawk.png"
       },
       {
         "Id": 6,
         "Name": "Unknown",
         "Nickname": "Toepick",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Toepick.png",
-        "Photo": "/preset5/Toepick.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/toepick.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/toepick.png"
       },
       {
         "Id": 7,
         "Name": "Unknown",
         "Nickname": "Astrodactyl",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Astrodactyl.png",
-        "Photo": "/preset5/Astrodactyl.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/astrodactyl.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/astrodactyl.png"
       },
       {
         "Id": 8,
         "Name": "Incursean",
         "Nickname": "Bullfrag",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Bullfrag.png",
-        "Photo": "/preset5/Bullfrag.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/bullfrag.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/bullfrag.png"
       },
       {
         "Id": 9,
         "Name": "Unknown",
         "Nickname": "Atomix",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Atomix.png",
-        "Photo": "/preset5/Atomix.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/atomix.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/atomix.png"
       },
       {
         "Id": 10,
         "Name": "Unknown",
         "Nickname": "Gutrot",
         "Ultimate": false,
-        "Silohoutte": "/preset5/silhouettes/Gutrot.png",
-        "Photo": "/preset5/Gutrot.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset5/silhouettes/gutrot.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset5/gutrot.png"
       }
     ]
   },
@@ -442,82 +442,82 @@
         "Name": "Sphoeroid",
         "Nickname": "Spitter",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/Spitter.png",
-        "Photo": "/preset6/Spitter.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/spitter.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/spitter.png"
       },
       {
         "Id": 2,
         "Name": "Nosedeenian",
         "Nickname": "Buzzshock",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/Buzzshock.png",
-        "Photo": "/preset6/Buzzshock.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/buzzshock.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/buzzshock.png"
       },
       {
         "Id": 3,
         "Name": "Polar Manzardill",
         "Nickname": "Arctiguana",
         "Ultimate": true,
-        "Silohoutte": "/preset6/silhouettes/Arctiguana.png",
-        "Photo": "/preset6/Arctiguana.png",
-        "Ult": "/preset6/Ultimates/UltimateArctiguana.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/arctiguana.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/arctiguana.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset6/ultimates/ultimatearctiguana.png"
       },
       {
         "Id": 4,
         "Name": "Nanochip Human hybrid",
         "Nickname": "Nanomech",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/Nanomech.png",
-        "Photo": "/preset6/Nanomech.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/nanomech.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/nanomech.png"
       },
       {
         "Id": 5,
         "Name": "Biot-savartian",
         "Nickname": "Lodestar",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/Lodestar.png",
-        "Photo": "/preset6/Lodestar.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/lodestar.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/lodestar.png"
       },
       {
         "Id": 6,
         "Name": "Appoplexian",
         "Nickname": "Rath",
         "Ultimate": true,
-        "Silohoutte": "/preset6/silhouettes/Rath.png",
-        "Photo": "/preset6/Rath.png",
-        "Ult": "/preset6/Ultimates/UltimateRath.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/rath.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/rath.png",
+        "Ult": "https://christopherb91.github.io/Omnitrix/preset6/ultimates/ultimaterath.png"
       },
       {
         "Id": 7,
         "Name": "Gimlinopithecus",
         "Nickname": "Shocksquatch",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/Shocksquatch.png",
-        "Photo": "/preset6/Shocksquatch.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/shocksquatch.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/shocksquatch.png"
       },
       {
         "Id": 8,
         "Name": "Nemuina",
         "Nickname": "Pesky Dust",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/Pesky-Dust.png",
-        "Photo": "/preset6/Pesky-Dust.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/pesky-dust.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/pesky-dust.png"
       },
       {
         "Id": 9,
         "Name": "Unknown",
         "Nickname": "Mole-Stache",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/MoleStache.png",
-        "Photo": "/preset6/MoleStache.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/molestache.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/molestache.png"
       },
       {
         "Id": 10,
         "Name": "Vladat",
         "Nickname": "Whampire",
         "Ultimate": false,
-        "Silohoutte": "/preset6/silhouettes/Whampire.png",
-        "Photo": "/preset6/Whampire.png"
+        "Silohoutte": "https://christopherb91.github.io/Omnitrix/preset6/silhouettes/whampire.png",
+        "Photo": "https://christopherb91.github.io/Omnitrix/preset6/whampire.png"
       }
     ]
   }
